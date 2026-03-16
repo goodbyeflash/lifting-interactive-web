@@ -35,6 +35,8 @@ lifting-interactive-web/
 │   │   ├── Scene1.js              # [1 화면] 리프팅 VS 고정용
 │   │   ├── Scene2.js              # [2 화면] PDO VS PCL
 │   │   └── Scene3.js              # [3 화면] 얼굴 근육 및 입 벌림
+│   ├── utils/
+│   │   └── navigation.js          # 네비게이션 바의 활성화 상태 업데이트
 │   ├── style.css                  # 전체 화면 리셋 및 캔버스 중앙 정렬
 │   └── main.js                    # Vite 진입점 및 Phaser Game Config 설정
 ├── package.json

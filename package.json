@@ -6,7 +6,7 @@
   "author": "goodbyeFlash",
   "scripts": {
     "dev": "vite --host",
-    "build": "vite build",
+    "build": "vite build --config vite/config.prod.mjs",
     "preview": "vite preview",
     "vercel-dev": "vercel dev"
   },
